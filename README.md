@@ -1,1 +1,0 @@
-# black_white_image_compressor
